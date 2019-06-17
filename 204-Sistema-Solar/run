@@ -1,0 +1,2 @@
+bash ../compilar.txt
+./out astros1.txt

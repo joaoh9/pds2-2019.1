@@ -1,0 +1,14 @@
+defastro
+Lua Fobos
+Orbita Marte
+Temperatura -40
+Raio 11
+Gravidade 0.001
+Gasoso False
+
+defastro
+Planeta Marte
+Temperatura 10
+Raio 10
+Gravidade 10
+Gasoso True
