@@ -1,0 +1,18 @@
+rm TesteEmpregadoComissionado.gcda
+rm TesteEmpregadoComissionado.gcno
+
+rm TesteEmpregadoComissionadoBase.gcda
+rm TesteEmpregadoComissionadoBase.gcno
+
+rm TesteEmpregadoPorHora.gcda
+rm TesteEmpregadoPorHora.gcno
+
+rm TesteEmpregadoSalariado.gcda
+rm TesteEmpregadoSalariado.gcno
+
+rm main.gcda
+rm main.gcno
+
+rm Data.gcda
+rm Data.gcno
+
