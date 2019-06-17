@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build main circunference",
+      "type": "shell",
+      "command": "g++",
+      "args": ["main.cpp Estudante.cpp"],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
